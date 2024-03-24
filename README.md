@@ -1,4 +1,4 @@
-# Laravel 10 自動為應用程式套用程式碼風格
+# Laravel 11 自動為應用程式套用程式碼風格
 
 引入 tightenco 的 duster 套件來擴增自動為應用程式套用程式碼風格，協助檢查出各種語法相關的問題。
 
@@ -24,5 +24,5 @@ $ ./vendor/bin/duster lint
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/hG53yB5.png)
+![](https://i.imgur.com/RKUqYCk.png)
 > 檢測出不符合程式碼規範的程式碼
